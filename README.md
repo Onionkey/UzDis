@@ -8,5 +8,5 @@ UzDis is a command-line tool that provides privacy-conscious alternatives to pop
 ```bash
   git clone https://github.com/Onionkey/UzDis.git
   cd UzDis
-  python main.py
+  python3 main.py
 ```
